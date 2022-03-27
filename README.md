@@ -2,7 +2,7 @@
 
 ## First Section
 
-contents 1 before commit
+contents 1 commit complete! (by author 1)
 
 ## Second Section
 
