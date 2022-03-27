@@ -6,4 +6,4 @@ contents 1 before commit
 
 ## Second Section
 
-contents 2 before commit
+contents 2 commit complete! (by author 2)
