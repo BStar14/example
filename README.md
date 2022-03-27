@@ -4,4 +4,6 @@
 
 contents will be under this line
 
-second commit (by author 2) <!-- does not consider first commit -->
+first commit (by author 1)
+
+second commit (by author 2) <!-- now compatible with first commit -->
