@@ -1,9 +1,5 @@
 # Example Markdown File
 
-## First Section
+## Single Section
 
-contents 1 commit complete! (by author 1)
-
-## Second Section
-
-contents 2 commit complete! (by author 2)
+contents will be under this line
